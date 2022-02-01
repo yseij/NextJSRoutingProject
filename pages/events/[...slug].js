@@ -1,7 +1,9 @@
-function FilteredEventsPage(){
-    return <div>
-        <h1>Filtered Evetns</h1>
+function FilteredEventsPage() {
+  return (
+    <div>
+      <h1>Filtered Events</h1>
     </div>
+  );
 }
 
-export default FilteredEventsPage
+export default FilteredEventsPage;
